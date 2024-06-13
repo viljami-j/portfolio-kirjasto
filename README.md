@@ -1,2 +1,2 @@
-# portfolio-kirjasto-pwa
-PWA joka toteuttaa kirjaston web-sivuja vastaavaa toiminnallisuutta (kuten Helmet, PIKI, jne.).
+# portfolio-kirjasto
+Toteuttaa kirjaston nettisivuja (Helmet, PIKI, jne.) vastaavaa toiminnallisuutta.
